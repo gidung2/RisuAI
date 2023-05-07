@@ -19,7 +19,7 @@ import { hasher } from "./parser";
 //@ts-ignore
 export const isTauri = !!window.__TAURI__
 export const forageStorage = localforage.createInstance({
-    name: "risuai"
+    name: "waifuai"
 })
 
 interface fetchLog{
