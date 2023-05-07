@@ -1,4 +1,4 @@
-# RisuAI
+# WaifuAI
 
 A AIChat Client, but better.
 
